@@ -16,6 +16,11 @@ Linear / Quadratic / cubic function
 
 ### 방정식 Equation
 
+### 거듭제곱 Exponential
+$a^n$ 
+
+a : base <br>
+n : exponent
 
 
 
